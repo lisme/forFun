@@ -6,12 +6,12 @@
  * @version 1.00 2013/7/9
  */
 
-public class Second {
+public class Test {
         
     /**
      * Creates a new instance of <code>Second</code>.
      */
-    public Second() {
+    public Test() {
     }
     
     /**
